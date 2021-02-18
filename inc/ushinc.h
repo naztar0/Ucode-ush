@@ -1,0 +1,27 @@
+#pragma once
+
+#include <curses.h>
+#include <dirent.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <limits.h>
+#include <malloc/malloc.h>
+#include <pwd.h>
+#include <signal.h>
+#include <stdbool.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <sys/types.h>
+#include <sys/acl.h>
+#include <sys/xattr.h>
+#include <sys/wait.h>
+#include <sys/ioctl.h>
+#include <sys/stat.h>
+#include <sys/param.h>
+#include <time.h>
+#include <termios.h>
+#include <term.h>
+#include <unistd.h>
+#include <sys/mman.h>
